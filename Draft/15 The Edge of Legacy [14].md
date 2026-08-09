@@ -146,7 +146,7 @@ It leaves evidence in the truth it preserves or compromises.
 
 A man cannot control every outcome beyond himself. He cannot guarantee how others will receive his life, remember his life, or build upon what he leaves. But he is responsible for the pattern he gives them. He is responsible for the kind of contact his life repeatedly makes. He is responsible for whether his strength serves only the moment, or becomes part of something that outlasts him.
 
-This resolves the problem of short-term thinking.
+Legacy extends a man's view beyond the immediate moment.
 
 The man was not made merely to create immediate impact. He was made to live in a way that gathers meaning over time. His actions are not small simply because they are ordinary. His influence is not insignificant simply because it is quiet. His responsibilities are not temporary simply because their fruit is delayed.
 
