@@ -188,7 +188,7 @@ Stewardship maintains the blade.
 
 Without stewardship, even the strongest formation begins to decline. The man may still have history, knowledge, and past victories, but yesterday’s sharpness cannot be spent forever. What is not maintained will eventually degrade.
 
-This resolves the problem of decline through neglect.
+Stewardship interrupts decline before neglect becomes collapse.
 
 The issue was not always loss of direction, lack of skill, or internal contradiction. Sometimes the man had simply failed to care for the structure required to remain sharp. He kept using the blade without maintaining it. He kept demanding output while ignoring condition.
 
