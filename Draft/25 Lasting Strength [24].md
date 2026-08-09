@@ -432,7 +432,7 @@ A dull blade frustrates.
 
 A broken blade harms.
 
-The tempering fire resolves the burnout cycle by teaching a man that recovery belongs inside discipline. It shows him that pressure must be balanced by recalibration. It teaches him that intensity without rhythm creates brittleness, and brittleness eventually breaks under use.
+The tempering fire teaches a man that recovery belongs inside discipline. It shows him that pressure must be balanced by recalibration. It teaches him that intensity without rhythm creates brittleness, and brittleness eventually breaks under use.
 
 A blade that is too hard will snap.
 
