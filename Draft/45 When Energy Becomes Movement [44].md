@@ -392,7 +392,7 @@ Even imperfect movement.
 
 A man does not need to conquer the whole mountain today. He needs to take the next step that the energy is asking for. Then he needs to take another. Then another. Over time, the run stays open. Energy keeps moving. The furnace remains connected to the life it is meant to power.
 
-This resolves stagnation despite awareness because the man stops letting insight remain trapped inside him. He stops treating inner clarity as the finish line. He learns to send energy into behavior quickly, cleanly, and repeatedly.
+Movement breaks the stagnation that remains after awareness when a man stops letting insight remain trapped inside him. He stops treating inner clarity as the finish line. He learns to send energy into behavior quickly, cleanly, and repeatedly.
 
 But movement has its own limit.
 
