@@ -188,7 +188,7 @@ Health costs him the cheap comfort.
 
 Family costs him selfish time.
 
-Faith costs him control.
+Conviction costs him control.
 
 Craft costs him laziness.
 
