@@ -406,7 +406,7 @@ The furnace has better material to process.
 
 Still, clean input alone does not complete the work.
 
-This is another place where men get confused. They clean up the charge and expect life to organize itself. They cut out noise, improve habits, choose better environments, and feed the system better material. That matters. It resolves low energy and clears distortion.
+This is another place where men get confused. They clean up the charge and expect life to organize itself. They cut out noise, improve habits, choose better environments, and feed the system better material. That matters. It restores energy and clears distortion.
 
 But energy that is not structured can still disperse.
 
