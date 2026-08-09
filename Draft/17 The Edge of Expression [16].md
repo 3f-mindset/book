@@ -214,7 +214,7 @@ Some will be offended by it.
 
 The man cannot build his life around controlling all of this. He must instead ask whether what he brings forward is true, formed, rightly aimed, and submitted to purpose.
 
-This resolves the problem of invisibility.
+Expression carries a man's formed strength into the world.
 
 The man was not formed to remain hidden inside himself. His strength was not given merely for private order. His clarity was not meant to die in silence. His craft was not meant to remain theoretical. His wholeness was not meant to become self-contained.
 
