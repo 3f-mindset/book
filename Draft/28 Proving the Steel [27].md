@@ -182,7 +182,7 @@ There is strength in that. A man who can tell the truth about his own behavior i
 
 But he cannot do that while defending himself from reality.
 
-The stress test resolves false confidence because it removes imagination from the center. It stops a man from believing he is strong only because he has prepared well. It brings the blade into use and lets the result speak.
+The stress test removes imagination from the center. It stops a man from believing he is strong only because he has prepared well. It brings the blade into use and lets the result speak.
 
 That can be humbling.
 
