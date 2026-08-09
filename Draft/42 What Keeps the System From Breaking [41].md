@@ -366,7 +366,7 @@ Without walls, the fire consumes everything.
 
 With walls, the fire can be held, focused, and used.
 
-This resolves burnout and overreach because the man begins to see that protection is part of strength. Boundaries are not a retreat from responsibility. They are what allow responsibility to be carried without destroying the carrier.
+Burnout and overreach begin to lose their hold when a man sees that protection is part of strength. Boundaries are not a retreat from responsibility. They are what allow responsibility to be carried without destroying the carrier.
 
 But even a stable system has another issue.
 
