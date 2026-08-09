@@ -120,7 +120,7 @@ Rightly ordered service clarifies purpose.
 
 It tells the blade where it belongs.
 
-A man is not meant to be sharp everywhere for everyone at all times. He is meant to be faithful with the real responsibilities placed before him. His household. His work. His word. His commitments. His community. His calling. His obedience before God. These are not interruptions to his formation. They are the field where formation becomes visible.
+A man is not meant to be sharp everywhere for everyone at all times. He is meant to be dependable with the real responsibilities placed before him. His household. His work. His word. His commitments. His community. His chosen direction. His responsibility to what is real. These are not interruptions to his formation. They are the field where formation becomes visible.
 
 The blade exists for contact.
 
