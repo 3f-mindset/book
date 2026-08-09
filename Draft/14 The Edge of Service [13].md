@@ -140,7 +140,7 @@ Service tells the blade what it is for.
 
 Without service, strength becomes circular. The man may grow impressive, but he will not become deeply useful. He may gain impact for a moment, but his impact will remain shallow if it is not rooted in responsibility beyond himself.
 
-This resolves the problem of meaning.
+Service gives strength a purpose beyond itself.
 
 The man was not lacking strength alone. He was lacking a purpose large enough to order his strength. His effort felt empty because it served too small an end. His capability felt restless because it had not been given to anything worthy of its cost.
 
