@@ -32,7 +32,7 @@ Pressure spreading feels like overwhelm.
 
 Everything matters at the same time. Every task feels urgent. Every relationship demands attention. Every goal pulls on the mind. Every responsibility sits in the same pile. The man wakes up already crowded inside himself.
 
-He looks at his life and sees work, money, health, marriage, children, family, friendships, faith, purpose, repairs, messages, deadlines, plans, and unfinished promises.
+He looks at his life and sees work, money, health, marriage, children, family, friendships, conviction, purpose, repairs, messages, deadlines, plans, and unfinished promises.
 
 All of it is real.
 
