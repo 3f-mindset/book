@@ -304,7 +304,7 @@ It is not the final form.
 
 The heat must be held so it can be directed. The energy must be gathered so it can meet structure. The emotion must be contained so it can become action instead of noise.
 
-The casting ladle resolves the chaos of reaction.
+The casting ladle gives the first heat of change somewhere to go.
 
 It teaches a man to stop wasting the first heat of change.
 
