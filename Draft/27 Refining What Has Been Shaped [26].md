@@ -374,7 +374,7 @@ That is the question.
 
 A man can only answer that by looking at results, listening to trusted voices, and allowing life to show him what still needs sharpening.
 
-The grindstone resolves stagnation despite effort by bringing correction to the places effort alone could not finish. It teaches a man that progress does not exempt him from feedback. It shows him that small adjustments, made consistently, can change the whole quality of his presence.
+The grindstone brings correction to the places effort alone could not finish. It teaches a man that progress does not exempt him from feedback. It shows him that small adjustments, made consistently, can change the whole quality of his presence.
 
 No blade leaves the hammer finished.
 
