@@ -234,7 +234,7 @@ Empty weight crushes.
 
 Meaningful weight forms.
 
-There is a difference between carrying a load that has no purpose and carrying a load that belongs to your calling, your family, your craft, your faith, your service, your future.
+There is a difference between carrying a load that has no purpose and carrying a load that belongs to your chosen direction, your family, your craft, your convictions, your service, your future.
 
 The muscles may still burn.
 
