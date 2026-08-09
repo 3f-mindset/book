@@ -350,7 +350,7 @@ Then repeat it.
 
 Not because it feels heroic. Because it works.
 
-The hammer resolves wasted effort by forcing a man to stop spreading himself thin. It brings him back to the point of impact. It asks him to choose the action that matters and place force there until the shape changes.
+The hammer gathers effort at the point where change can happen. It brings a man back to the point of impact. It asks him to choose the action that matters and place force there until the shape changes.
 
 But there is another danger here.
 
