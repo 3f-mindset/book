@@ -88,7 +88,7 @@ The mind can make a home out of understanding. It can study the fire instead of 
 
 That cost is what many men fear.
 
-At first, sustained change sounds attractive. A stronger body. A cleaner mind. A better marriage. Deeper faith. Greater discipline. More courage. More direction. A life that no longer feels borrowed or half-lived.
+At first, sustained change sounds attractive. A stronger body. A cleaner mind. A better marriage. Deeper conviction. Greater discipline. More courage. More direction. A life that no longer feels borrowed or half-lived.
 
 But then the real demand appears.
 
