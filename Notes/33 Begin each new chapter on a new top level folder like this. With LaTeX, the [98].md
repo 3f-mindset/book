@@ -1,0 +1,3 @@
+Begin each new chapter on a new top level folder like this. With LaTeX, the chapter numbering and formatting is handled automatically by the typesetting engine. Scrivener is only responsible for assembling the LaTeX code that will be used to generate these structures.
+
+If you need parts,  don't need chapters or just  prefer to use single-file chapters, the automatic assignment of structure to the outline can be adjusted in project settings, under the Section Types pane.

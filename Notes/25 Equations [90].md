@@ -1,0 +1,1 @@
+We can also insert equations as discrete items in the binder, making them easy to reference and look up by type. It also means we can refer to them in our writings with the use of simple internal document links. In a similar fashion, we can also refer to the previous figure.

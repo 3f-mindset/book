@@ -1,0 +1,1 @@
+P\left(A=2\middle|\frac{A^2}{B}>4\right)
