@@ -68,7 +68,7 @@ He does not yet have walls.
 
 Values make the walls solid.
 
-If faith matters, then not every ambition gets to lead.
+If conviction matters, then not every ambition gets to lead.
 
 If marriage matters, then not every outside demand gets your best presence.
 
