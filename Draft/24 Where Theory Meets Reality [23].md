@@ -390,7 +390,7 @@ Steel does not become real until it meets resistance.
 
 Neither does a man.
 
-The quench resolves the illusion of progress by bringing private work into public contact. It gives reality the right to speak. It proves what has been shaped and exposes what still bends.
+The quench brings private work into public contact. It gives reality the right to speak. It proves what has been shaped and exposes what still bends.
 
 But there is a danger on the other side.
 
