@@ -176,7 +176,7 @@ He may aim at becoming physically strong because his body is part of his steward
 
 Aim turns values into direction.
 
-Without aim, values remain decoration. A man says he values family, health, faith, integrity, discipline, service, and growth. Those words sound good. They can even be true.
+Without aim, values remain decoration. A man says he values family, health, conviction, integrity, discipline, service, and growth. Those words sound good. They can even be true.
 
 But values that do not direct heat do not shape life.
 
