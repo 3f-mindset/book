@@ -154,7 +154,7 @@ He may not need more knowledge. He may need knowledge converted into obedience.
 
 The issue is not only whether an edge exists. The issue is whether the edges are rightly shaped, rightly related, and rightly governed.
 
-This resolves the oversimplification.
+The picture becomes more complete.
 
 A man is not formed because one part of him has been sharpened. He is formed when the whole structure of his character can meet reality with integrity. His life becomes cleaner not because he has found one answer for everything, but because the many parts of him have been brought into order.
 
