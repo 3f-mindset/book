@@ -238,7 +238,7 @@ You can declare leadership and still avoid hard decisions.
 
 You can declare love and still be absent.
 
-You can declare faith and still lack obedience.
+You can claim conviction and still lack follow-through.
 
 You can declare strength and still collapse under pressure.
 
