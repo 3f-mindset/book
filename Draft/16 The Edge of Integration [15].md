@@ -94,7 +94,7 @@ Changed or unchanged.
 
 Whole or worthless.
 
-But a man is often more complex than his preferred category. If he cannot hold that complexity before God and truth, he will keep splitting himself into acceptable and unacceptable pieces. He will present the acceptable pieces, hide the unacceptable ones, and call the presentation identity.
+But a man is often more complex than his preferred category. If he cannot hold that complexity honestly and examine it clearly, he will keep splitting himself into acceptable and unacceptable pieces. He will present the acceptable pieces, hide the unacceptable ones, and call the presentation identity.
 
 That is not wholeness.
 
