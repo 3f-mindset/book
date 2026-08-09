@@ -160,7 +160,7 @@ These questions cannot be answered by thought alone.
 
 They require contact.
 
-The quench resolves the illusion of progress because it gives the work a real measure. It shows what has been formed and what only sounded good. It separates private confidence from usable strength.
+The quench gives the work a real measure. It shows what has been formed and what only sounded good. It separates private confidence from usable strength.
 
 That separation matters.
 
