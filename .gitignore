@@ -1,0 +1,5 @@
+# Generated MkDocs inputs and published site output
+.mkdocs-docs/
+.mkdocs.generated.yml
+site/
+.venv/
