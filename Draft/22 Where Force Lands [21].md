@@ -316,7 +316,7 @@ That is why shaping is possible.
 
 A man needs something in his life that does not shift every time his mood changes. He needs fixed places where his word meets action. He needs repeated contact with the same standard until the standard begins to shape him.
 
-The anvil resolves inconsistency because it gives effort a surface.
+The anvil gives effort a surface strong enough to receive it.
 
 But the anvil alone does not shape the blade.
 
