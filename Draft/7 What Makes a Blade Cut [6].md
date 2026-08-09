@@ -104,7 +104,7 @@ Performance as function.
 
 The blade is measured by what it does at the point of resistance. A man is measured in the same place. Not by what he could become under imagined conditions, but by what his formed character is able to do when life presses against him now.
 
-This resolves part of the confusion.
+The confusion begins to clear here.
 
 Life may feel resistant not because a man lacks effort, but because his effort is meeting reality through a dull, misaligned, or poorly governed blade. He may be applying strength, but not with the structure required for clean movement. He may be pushing hard, but not cutting.
 
