@@ -430,7 +430,7 @@ They are furnace questions.
 
 Because outside air matters. The burn is affected by the room, the men, the standards, the demands, and the expectations around you. Environment enters the system and changes the heat.
 
-This resolves stagnation through isolation because the man finally sees that private effort has a ceiling. He needs clean air. He needs pressure. He needs standards outside his own shifting mind. He needs places where the fire is fed, not smothered.
+Outside air breaks the stagnation of isolation because it shows a man that private effort has a ceiling. He needs clean air. He needs pressure. He needs standards outside his own shifting mind. He needs places where the fire is fed, not smothered.
 
 But the next problem rises immediately.
 
