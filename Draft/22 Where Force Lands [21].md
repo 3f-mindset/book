@@ -78,7 +78,7 @@ You say you want to lead your family better.
 
 Where does that land?
 
-You say you want to grow your work, deepen your faith, repair your marriage, control your money, sharpen your mind, or stop drifting.
+You say you want to grow your work, deepen your convictions, repair your marriage, control your money, sharpen your mind, or stop drifting.
 
 Where does that land?
 
