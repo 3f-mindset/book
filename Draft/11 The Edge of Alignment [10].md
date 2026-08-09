@@ -124,7 +124,7 @@ A blade cannot cut cleanly while bending against itself.
 
 Neither can a man.
 
-This resolves the problem of internal conflict. The heaviness was not only confusion or lack of skill. It was division. The man was trying to move forward while parts of him remained out of agreement with the direction he claimed. His blade was pointed and perhaps even trained, but it was not straight.
+Internal conflict begins to quiet when a man brings his life into one line. The heaviness was not only confusion or lack of skill. It was division. The man was trying to move forward while parts of him remained out of agreement with the direction he claimed. His blade was pointed and perhaps even trained, but it was not straight.
 
 Alignment brings the man back into one line.
 
