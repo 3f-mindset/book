@@ -82,7 +82,7 @@ A leader may need to change how he communicates when the people entrusted to him
 
 A worker may need to learn new skills when the field changes.
 
-A man of faith may need to deepen practices that once were simple, because the weight he carries has increased.
+A man committed to a way of life may need to deepen practices that once were simple, because the weight he carries has increased.
 
 In each case, adaptation is not the abandonment of responsibility.
 
