@@ -288,7 +288,7 @@ But clean fuel alone is still incomplete.
 
 Even good energy needs containment.
 
-A man can read the right things, train his body, remove distractions, and clean up his environment, yet still feel scattered because his pressure has no vertical order. Everything feels equally important. Every demand pulls at him with the same force. Work, money, family, health, purpose, friendship, faith, desire, fear, memory, regret.
+A man can read the right things, train his body, remove distractions, and clean up his environment, yet still feel scattered because his pressure has no vertical order. Everything feels equally important. Every demand pulls at him with the same force. Work, money, family, health, purpose, friendship, conviction, desire, fear, memory, regret.
 
 All of it sits on the same floor.
 
