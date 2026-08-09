@@ -84,7 +84,7 @@ When these edges work together, the man moves with greater precision. He does no
 
 Integration is what gives character its cutting power.
 
-An integrated man does not need to become someone different in every situation. He does not need to perform one version of himself at work, another at home, another in conflict, another in private, and another before God. He may adapt his tone, timing, and method, but the inner structure remains consistent.
+An integrated man does not need to become someone different in every situation. He does not need to perform one version of himself at work, another at home, another in conflict, another in private, and another under pressure. He may adapt his tone, timing, and method, but the inner structure remains consistent.
 
 The same formed man is present.
 
