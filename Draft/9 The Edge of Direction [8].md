@@ -92,7 +92,7 @@ He needs to know where he is pointed.
 
 He needs enough truth to take the next faithful step. He needs enough clarity to refuse what keeps dividing him. He needs enough courage to let certain versions of himself die so that a truer life can take form.
 
-This resolves the confusion of clarity.
+That is the beginning of clarity.
 
 The problem was not merely that he did not know what he wanted. The deeper problem was that his life had not been oriented. His strength had no ruling line. His decisions had no center. His blade had edge, but no point of aim.
 
