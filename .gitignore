@@ -1,5 +1,8 @@
-# Generated MkDocs inputs and published site output
-.mkdocs-docs/
-.mkdocs.generated.yml
+# Generated mdBook inputs and published site output
+book-src/
 site/
 .venv/
+
+# Legacy generated MkDocs files from pre-migration worktrees
+.mkdocs-docs/
+.mkdocs.generated.yml

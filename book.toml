@@ -1,0 +1,13 @@
+[book]
+title = "3F Book"
+description = "A build-time view of the 3F manuscript."
+language = "en"
+src = "book-src"
+
+[build]
+build-dir = "site"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+smart-punctuation = true

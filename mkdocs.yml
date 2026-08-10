@@ -1,3 +1,0 @@
-# This base file identifies the project. The complete navigation and source
-# directory are generated at build time by scripts/build_mkdocs.py.
-site_name: 3F Book

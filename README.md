@@ -36,19 +36,19 @@ appropriate directory so it can be placed and linked correctly in Scrivener.
 
 ## Published book site
 
-The GitHub Pages site is generated afresh from `Draft/` on every build. The
-generator reads the display order and title from each filename, then creates a
-chapter page, navigation, and a linked table of contents. No chapter list is
-maintained by hand.
+The GitHub Pages site is generated afresh from `Draft/` on every build with
+[mdBook](https://github.com/rust-lang/mdBook). The generator reads the display
+order and title from each filename, then creates the chapter pages and
+`SUMMARY.md` navigation. No chapter list is maintained by hand.
 
 To preview the same generated book locally:
 
 ```powershell
-python -m venv .venv
-.\.venv\Scripts\python -m pip install -r requirements.txt
-python scripts\build_mkdocs.py
-.\.venv\Scripts\python -m mkdocs serve --config-file .mkdocs.generated.yml
+python scripts\build_mdbook.py
+mdbook serve
 ```
 
-Pushing to `main` runs `.github/workflows/publish-book.yml`, which rebuilds and
-deploys the site to GitHub Pages.
+This requires Python for the source generator and mdBook installed locally.
+
+Pushing to `main` runs `.github/workflows/publish-book.yml`, which installs
+mdBook, rebuilds the site, and deploys it to GitHub Pages.
