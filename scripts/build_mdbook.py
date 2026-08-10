@@ -65,7 +65,7 @@ def write_book(chapters: list[Chapter]) -> None:
         shutil.rmtree(BOOK_SRC_DIR)
     (BOOK_SRC_DIR / "chapters").mkdir(parents=True)
 
-    summary = ["# Summary", "", "- [Table of Contents](index.md)", "- Chapters"]
+    summary = ["# Summary", "", "- [Table of Contents](index.md)"]
     toc = [
         "# Table of Contents",
         "",
@@ -74,7 +74,7 @@ def write_book(chapters: list[Chapter]) -> None:
     ]
     for chapter in chapters:
         link = markdown_link(chapter.title, chapter.page_path)
-        summary.append(f"  - {link}")
+        summary.append(f"- {link}")
         toc.append(f"{chapter.order}. {link}")
         content = chapter.source.read_text(encoding="utf-8")
         page = f"# {chapter.title}\n\n{content.rstrip()}\n"
