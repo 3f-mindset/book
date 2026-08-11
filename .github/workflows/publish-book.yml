@@ -26,6 +26,9 @@ jobs:
         with:
           tool: mdbook
 
+      - name: Install generator dependencies
+        run: python -m pip install pyyaml
+
       - name: Generate book source
         run: python scripts/build_mdbook.py
 

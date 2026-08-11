@@ -37,9 +37,15 @@ appropriate directory so it can be placed and linked correctly in Scrivener.
 ## Published book site
 
 The GitHub Pages site is generated afresh from `Draft/` on every build with
-[mdBook](https://github.com/rust-lang/mdBook). The generator reads the display
-order and title from each filename, then creates the chapter pages and
-`SUMMARY.md` navigation. No chapter list is maintained by hand.
+[mdBook](https://github.com/rust-lang/mdBook). The generator reads each
+document's display order, title, and Scrivener ID from its filename, then uses
+the repository-owned [`book-menu.yml`](book-menu.yml) to resolve parent-child
+relationships. This keeps navigation structure outside the Scrivener-synced
+`Draft/` and `Notes/` directories.
+
+To change the navigation hierarchy, edit the `parents` mapping in
+`book-menu.yml`. Each key is a bracketed Scrivener ID from a filename, and its
+value is the parent Scrivener ID. Use `null` for a root-level item.
 
 To preview the same generated book locally:
 
