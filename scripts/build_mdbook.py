@@ -182,13 +182,14 @@ def write_book(
     toc = [
         "# Table of Contents",
         "",
-        "The entries below are generated from the manuscript filenames at build time.",
-        "",
+        "- [Front Matter](front-matter.md)",
     ]
+    toc.extend(
+        f"  - {markdown_link(document.title, document.page_path)}"
+        for document in front_matter
+    )
+    toc.extend(menu_lines(chapters, parent_map))
     for document in [*front_matter, *chapters]:
-        link = markdown_link(document.title, document.page_path)
-        if document in chapters:
-            toc.append(f"{document.order}. {link}")
         content = document.source.read_text(encoding="utf-8")
         page = f"# {document.title}\n\n{content.rstrip()}\n"
         (BOOK_SRC_DIR / document.page_path).write_text(page, encoding="utf-8")
