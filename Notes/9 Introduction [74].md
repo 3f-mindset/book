@@ -1,4 +1,4 @@
-There comes a time when drifting is no longer enough.
+You already know what it feels like to want your life to be different.
 
 You may have spent years reacting to what came next. Work needed you. Bills had to be paid. People needed your help. One problem ended, and another began. You may have worked hard and still felt like you were not moving toward a life you chose.
 
