@@ -4,6 +4,8 @@ The Problem Is Structure
 
 Introduction
 
+What Is the 3F Mindset?
+
 The Friction You Feel
 
 The Blade
@@ -135,4 +137,3 @@ Beyond Personal Development
 Passing the Structure Forward
 
 Living Without Resetting 
-
