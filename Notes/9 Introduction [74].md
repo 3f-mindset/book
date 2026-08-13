@@ -1,16 +1,16 @@
 You already know what it feels like to want your life to be different.
 
-You may have spent years reacting to what came next. Work needed you. Bills had to be paid. People needed your help. One problem ended, and another began. You may have worked hard and still felt like you were not moving toward a life you chose.
+You may have made promises to yourself that did not last. You may have started a new plan, felt ready, and then slowly gone back to old habits. You may know what needs to change at home, at work, in your health, or in the way you use your time.
 
-Then you begin to ask a better question.
+The hard part is not always seeing the problem. The hard part is making the change hold.
 
-What kind of man do I want to be from here on?
+Part of you wants to move forward. Another part keeps choosing what is easy, safe, or familiar. You want to be more steady, but pressure, fear, tiredness, and distraction keep pulling you back.
 
-This is the second half of a life well lived. It is the time to live on purpose. It is the time to keep your word, care for your people, do good work, and build something that lasts after you are gone.
+Sooner or later, one question becomes hard to avoid.
 
-That does not mean you must become a new man overnight. It does not mean you need a perfect plan. It means you need tools that help you hold your standard when life gets hard.
+How do I actually change things?
 
-This book is about those tools.
+This book is a guide for that question. It is about the changes beneath your choices: the way you build discipline, care for your energy, face pressure, and return to what matters. These are the structures that help you live on purpose instead of reacting to every hard day.
 
 The 3F Mindset is built around Fire, Furnace, and Forge.
 
