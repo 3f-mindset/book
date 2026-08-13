@@ -26,8 +26,6 @@ The answer becomes visible in your form: the man you bring into your work, your 
 
 In this book, we call that form the **Blade**. A blade is made for a job. It must be strong. It must be sharp. It must hold up when it is used. Your Blade is the kind of man people meet in real life. It shows in what you do, not only in what you say.
 
-We look at the Blade through nine edges. An edge is one part of the Blade we can see and work on. The nine edges are Direction, Craft, Alignment, Stewardship, Adaptation, Service, Legacy, Integration, and Expression. They show where you are going, how well you do your work, whether your life matches your values, how you care for what you have, how you handle change, how you help others, what you leave behind, how whole you are, and how you speak and act.
+The Blade matters because it is what touches the world. It is seen in how you work, lead, speak, serve, and care for the people around you. When life gets hard, your Blade shows what has been built in you. It is the evidence of the man you are becoming and the impact you have on others.
 
-All nine edges make one Blade. The Blade is the proof of the Fire, Furnace, and Forge. When life gets hard, the Blade shows what has been built in you.
-
-This book will help you examine each part of that process. A life well lived will bring challenge, responsibility, pressure, and seasons when doing what is right is not easy. You do not need to manufacture a new identity overnight. You need to build the habits and inner structure that help you keep showing up, keep your standard, and meet those seasons with discipline. That is the 3F Mindset.
+This book will help you build that Blade. A life well lived will bring challenge, responsibility, pressure, and seasons when doing what is right is not easy. You do not need to become a new man overnight. You need to keep showing up, keep your standard, and meet each season with discipline. That is the 3F Mindset.
