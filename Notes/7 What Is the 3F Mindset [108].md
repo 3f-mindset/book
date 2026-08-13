@@ -1,4 +1,8 @@
-The 3F Mindset is a way of understanding how lasting change is built.
+The 3F Mindset is for the second half of a life well lived.
+
+The first half can be marked by drifting. You react to what happens. You follow the next need, the next job, or the next problem. You may work hard, but without a clear direction. You may want more, but not know how to build it.
+
+The second half is different. You choose to live with intention. You learn the tools that help you hold your standards, meet your responsibilities, and use your time well. You begin to build a life that helps the people around you and leaves something good behind. That is how a man creates lasting impact and a legacy worth passing on.
 
 It is not a slogan for getting fired up. It is not another system for demanding more from yourself until you burn out. It is a way to recognize what is happening inside you, what is shaping you, and what must be brought into order if you want to maintain your standards when life becomes demanding.
 
