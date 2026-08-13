@@ -12,8 +12,6 @@ How do I actually change things?
 
 This book is a guide for that question. It is about the changes beneath your choices. It helps you see why old patterns stay in place and what must change for a new pattern to hold. It is not about a quick fix. It is about building a life that can stay true when the day is hard.
 
-The book begins with the Blade because your life already shows an answer. The way you act under pressure tells you what is working and what is not. From there, the book walks back through the work that shapes a man, helps him stay steady, and gives his life a clear purpose.
-
 You will not be asked to fix every part of your life at once. You will be asked to look honestly, choose what matters, and take the next right step. Small choices, made again and again, can change the shape of a life.
 
 The goal is not to become busy, tough, or impressive. The goal is to become steady and useful. A steady man helps the people around him. He keeps his standard in hard seasons. He uses his strength to serve, not just to build himself up.
