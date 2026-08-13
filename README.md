@@ -56,5 +56,16 @@ mdbook serve
 
 This requires Python for the source generator and mdBook installed locally.
 
+## Public email gate
+
+The generated site asks new visitors for an email address before revealing the
+book. The address is stored on that device in `localStorage` under
+`3f-book.email-gate.v1`, so future visits bypass the form.
+
+The future API hook is in [`theme/email-gate.js`](theme/email-gate.js). It is
+disabled by default; set `API_SUBMISSION_ENABLED` to `true` and provide an
+`API_ENDPOINT` when the backend is ready. The visitor is only granted access
+after that request succeeds.
+
 Pushing to `main` runs `.github/workflows/publish-book.yml`, which installs
 mdBook, rebuilds the site, and deploys it to GitHub Pages.

@@ -1,0 +1,89 @@
+/* The book becomes visible only after email-gate.js restores or creates a session. */
+#mdbook-body-container {
+    visibility: hidden;
+}
+
+html.email-gate-ready #mdbook-body-container {
+    visibility: visible;
+}
+
+.email-gate {
+    align-items: center;
+    background: var(--bg, #ffffff);
+    box-sizing: border-box;
+    color: var(--fg, #1f1f1f);
+    display: flex;
+    inset: 0;
+    justify-content: center;
+    padding: 24px;
+    position: fixed;
+    text-align: center;
+    z-index: 2147483647;
+}
+
+.email-gate__card {
+    max-width: 420px;
+    width: 100%;
+}
+
+.email-gate h1 {
+    font-size: 2rem;
+    margin: 0 0 0.75rem;
+}
+
+.email-gate p {
+    line-height: 1.5;
+    margin: 0 0 1.5rem;
+}
+
+.email-gate__form {
+    display: flex;
+    gap: 0.65rem;
+}
+
+.email-gate input,
+.email-gate button {
+    border: 1px solid var(--sidebar-bg, #b8b8b8);
+    border-radius: 4px;
+    box-sizing: border-box;
+    font: inherit;
+    min-height: 44px;
+    padding: 0.65rem 0.8rem;
+}
+
+.email-gate input {
+    background: var(--bg, #ffffff);
+    color: var(--fg, #1f1f1f);
+    flex: 1;
+    min-width: 0;
+}
+
+.email-gate button {
+    background: var(--links, #2b79a7);
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.email-gate__error {
+    color: #b42318;
+    display: block;
+    margin-top: 0.75rem;
+    min-height: 1.25rem;
+}
+
+.email-gate .visually-hidden {
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+    clip: rect(0, 0, 0, 0);
+}
+
+@media (max-width: 480px) {
+    .email-gate__form {
+        flex-direction: column;
+    }
+}

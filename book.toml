@@ -11,3 +11,5 @@ build-dir = "site"
 default-theme = "light"
 preferred-dark-theme = "navy"
 smart-punctuation = true
+additional-css = ["theme/email-gate.css"]
+additional-js = ["theme/email-gate.js"]
