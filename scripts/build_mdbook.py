@@ -22,7 +22,7 @@ FRONT_MATTER_FILES = (
     "6 Epigraph [71].md",
     "8 Preface [73].md",
     "9 Introduction [74].md",
-    "10 What Is the 3F Mindset [108].md",
+    "7 What Is the 3F Mindset [108].md",
 )
 
 
